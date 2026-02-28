@@ -1,4 +1,5 @@
 <div align="center">
+https://a-fun-colour-detection-game.vercel.app/
 
 ```
  ██████╗██╗  ██╗██████╗  ██████╗ ███╗   ███╗ █████╗ 
@@ -16,7 +17,7 @@
 ```
 
 <br />
-https://a-fun-colour-detection-game.vercel.app/
+
 
 **◈ AI-Powered Color Detection ◈ HSV Analysis ◈ Real-Time ◈ No Backend ◈**
 
